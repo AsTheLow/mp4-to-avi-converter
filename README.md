@@ -6,7 +6,7 @@ Ce script batch vous permet de convertir des fichiers MP4 en fichiers AVI sous W
 
 - Assurez-vous d'avoir FFmpeg ou le fichier `ffmpeg.exe` dans le même répertoire que le script. Vous pouvez télécharger FFmpeg depuis [le site officiel](https://ffmpeg.org/download.html).
 
-## Utilisation 
+## Utilisation .bat
 
 1. Placez le script (`convert_mp4_to_avi.bat`) dans le même répertoire que vos fichiers MP4 que vous souhaitez convertir.
 
