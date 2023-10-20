@@ -6,7 +6,7 @@ Ce script batch vous permet de convertir des fichiers MP4 en fichiers AVI sous W
 
 - Assurez-vous d'avoir FFmpeg ou le fichier `ffmpeg.exe` dans le même répertoire que le script. Vous pouvez télécharger FFmpeg depuis [le site officiel](https://ffmpeg.org/download.html).
 
-## Utilisation
+## Utilisation 
 
 1. Placez le script (`convert_mp4_to_avi.bat`) dans le même répertoire que vos fichiers MP4 que vous souhaitez convertir.
 
@@ -17,6 +17,22 @@ Ce script batch vous permet de convertir des fichiers MP4 en fichiers AVI sous W
 4. Une fois la conversion terminée, le script affichera un message indiquant que la conversion de tous les fichiers MP4 en AVI est terminée.
 
 5. Appuyez sur une touche pour fermer la fenêtre de console.
+
+## Utilisation du script Python
+
+Si vous préférez utiliser un script Python pour la conversion de fichiers MP4 en AVI, suivez ces étapes :
+
+1. Assurez-vous d'avoir Python installé sur votre système. Vous pouvez télécharger Python depuis [le site officiel](https://www.python.org/downloads/).
+
+2. Placez le script Python (`convert_mp4_to_avi.py`) dans le même répertoire que vos fichiers MP4 que vous souhaitez convertir.
+
+3. Ouvrez un terminal (invite de commandes) dans le même répertoire que le script Python.
+
+4. Exécutez le script Python en utilisant la commande suivante :
+
+   ```bash
+   python convert_mp4_to_avi.py
+
 
 ## Remarques
 
