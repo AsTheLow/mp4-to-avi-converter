@@ -32,7 +32,5 @@ Ce script batch vous permet de convertir des fichiers MP4 en fichiers AVI sous W
 
 Ce script a été créé par AsTheLow et est disponible sous licence MIT.
 
-N'hésitez pas à contribuer ou à signaler des problèmes sur [le référentiel GitHub du projet](https://github.com/AsTheLow/mp4toavi/).
-
 ---
 Pour toute question ou assistance, veuillez [contacter l'auteur](mailto:theogauthr@gmail.com).
